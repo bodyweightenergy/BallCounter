@@ -5,7 +5,11 @@ using System.Text;
 
 namespace EmguCV_BallCounter
 {
-    public class Utilities
+    public static class Utilities
     {
+        public static void CreateTrainingData(string images_folder, string data_filename)
+        {
+
+        }
     }
 }
